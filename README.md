@@ -6,11 +6,7 @@ Misol UserName Va Olx Qaysdir sahifa .
 
 ![GitHub Logo](/image.png)
 
-Yuborish tugmasi 
 
-![GitHub Logo](/image2.png)
-
-
-**Eslatma **
+**Eslatma **: 
 
 @LimitTest_bot admin bo'lshi kerag Kanalga 
